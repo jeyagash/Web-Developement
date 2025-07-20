@@ -1,0 +1,17 @@
+html
+{
+font-size: 22px;
+}
+body{
+    background-image:url(background4.jpg) ;
+    background-size: 1500px;
+    color: rgba(205, 222, 202, 0.966);
+    background-repeat: no-repeat;
+    background-attachment :fixed;
+}
+table,tr,th,td,caption{
+    border:1px solid;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5em;
+}
